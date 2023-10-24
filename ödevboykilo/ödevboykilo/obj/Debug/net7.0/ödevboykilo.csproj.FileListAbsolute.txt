@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/bin/Debug/net7.0/ödevboykilo
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/bin/Debug/net7.0/ödevboykilo.deps.json
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/bin/Debug/net7.0/ödevboykilo.runtimeconfig.json
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/bin/Debug/net7.0/ödevboykilo.dll
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/bin/Debug/net7.0/ödevboykilo.pdb
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/obj/Debug/net7.0/ödevboykilo.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/obj/Debug/net7.0/ödevboykilo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/obj/Debug/net7.0/ödevboykilo.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/obj/Debug/net7.0/ödevboykilo.AssemblyInfo.cs
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/obj/Debug/net7.0/ödevboykilo.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/obj/Debug/net7.0/ödevboykilo.dll
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/obj/Debug/net7.0/refint/ödevboykilo.dll
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/obj/Debug/net7.0/ödevboykilo.pdb
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/obj/Debug/net7.0/ödevboykilo.genruntimeconfig.cache
+/Users/beytullah/Projects/ödevboykilo/ödevboykilo/obj/Debug/net7.0/ref/ödevboykilo.dll
