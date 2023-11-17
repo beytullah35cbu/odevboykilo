@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Vücut Kitle İndeksi Hesaplama");
+   
 
         // Kullanıcıdan boyu al
         Console.Write("Boyunuzu (metre cinsinden) girin: ");
